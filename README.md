@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">
+  Quick Prompt - v1.0<br/>
+  <a href="" target="_blank">Live Website</a>
+
+</h2>
+
+<br/>
+
+
+## About Project
+
+It's a platform that helps you discover and share the best AI prompts for various models such as ChatGPT, Bing, Google Bard, etc..
+
+## Tools & Technologies 
+
+- Next.js
+- Tailwind
+- MongoDB
+- VsCode
 
 ## Getting Started
 
